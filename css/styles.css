@@ -1,0 +1,176 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+h1,h2{
+    font-family: 'Satisfy', cursive;
+    color: #66BFBF;
+}
+
+h3,a{
+    color: #11999E;
+    text-decoration: none;
+}
+
+h1{
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+}
+
+h2{
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+table{
+    position: relative;
+    margin: 0 auto;
+    text-align: left;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+hr{
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 40px;
+    color: #cfcfcf;
+    margin-bottom: 70px;
+}
+
+.top-container{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.cloud1{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+.cloud2{
+    position:absolute;
+    bottom: 300px;
+    left: 300px;
+}
+
+.middle-container{
+    padding-top: 2%;
+    background-color: white;
+    font-weight: bold;
+}
+
+.bottom-container{
+    background-color: #64C9CF;
+    padding-top: 2%;
+    margin-bottom: 0;
+
+}
+
+.cool{
+    text-decoration: underline;
+}
+
+.footer-link{
+    padding: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.profpic{
+    width: 300px;
+    margin-top: 50px;
+}
+
+.achievepic{
+    width: 200px;
+    display: inline-block;
+}
+
+.certifpic{
+    width: 200px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skillpic1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skillpic2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.introtext{
+    color: #40514E ;
+    margin-bottom: 70px;
+}
+
+.endtext{
+    margin: 50px auto 0px auto;
+}
+
+.contact_button {
+    background: #13CDD3;
+    background-image: -webkit-linear-gradient(top, #13CDD3, #077579);
+    background-image: -moz-linear-gradient(top, #13CDD3, #077579);
+    background-image: -ms-linear-gradient(top, #13CDD3, #077579);
+    background-image: -o-linear-gradient(top, #13CDD3, #077579);
+    background-image: -webkit-gradient(to bottom, #13CDD3, #077579);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    height: 20px;
+    line-height: 20px;
+    color: #FFFFFF;
+    font-family: Helvetica;
+    width: 156px;
+    font-size: 21px;
+    font-weight: 400;
+    padding: 15px;
+    -webkit-box-shadow: 1px 1px 20px 0 #6C8D8E;
+    -moz-box-shadow: 1px 1px 20px 0 #6C8D8E;
+    box-shadow: 1px 1px 20px 0 #6C8D8E;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 50px auto 100px auto;
+}
+ 
+.contact_button:hover {
+    border: solid #000000 0;
+    background: #077579;
+    background-image: -webkit-linear-gradient(top, #077579, #13CDD3);
+    background-image: -moz-linear-gradient(top, #077579, #13CDD3);
+    background-image: -ms-linear-gradient(top, #077579, #13CDD3);
+    background-image: -o-linear-gradient(top, #077579, #13CDD3);
+    background-image: -webkit-gradient(to bottom, #077579, #13CDD3);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.copyright{
+    margin-bottom: 0;
+    color: #EAF6F6;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
